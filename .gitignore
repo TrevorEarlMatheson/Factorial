@@ -1,0 +1,13 @@
+Factorial.csproj
+.vscode/launch.json
+.vscode/tasks.json
+obj/Factorial.csproj.nuget.dgspec.json
+obj/Factorial.csproj.nuget.g.props
+obj/Factorial.csproj.nuget.g.targets
+obj/project.assets.json
+obj/project.nuget.cache
+obj/Debug/netcoreapp3.1/.NETCoreApp,Version=v3.1.AssemblyAttributes.cs
+obj/Debug/netcoreapp3.1/Factorial.AssemblyInfo.cs
+obj/Debug/netcoreapp3.1/Factorial.AssemblyInfoInputs.cache
+obj/Debug/netcoreapp3.1/Factorial.assets.cache
+obj/Debug/netcoreapp3.1/Factorial.csprojAssemblyReference.cache
