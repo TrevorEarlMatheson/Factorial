@@ -6,7 +6,8 @@ namespace Factorial
     {
         static int Factorial(int number)
         {
-            if(number > 0)
+            int stop = 1;
+            if(number > stop)
             {
                 number *= Factorial(--number);
             }

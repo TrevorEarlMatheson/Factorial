@@ -11,3 +11,15 @@ obj/Debug/netcoreapp3.1/Factorial.AssemblyInfo.cs
 obj/Debug/netcoreapp3.1/Factorial.AssemblyInfoInputs.cache
 obj/Debug/netcoreapp3.1/Factorial.assets.cache
 obj/Debug/netcoreapp3.1/Factorial.csprojAssemblyReference.cache
+bin/Debug/netcoreapp3.1/Factorial
+bin/Debug/netcoreapp3.1/Factorial.deps.json
+bin/Debug/netcoreapp3.1/Factorial.dll
+bin/Debug/netcoreapp3.1/Factorial.pdb
+bin/Debug/netcoreapp3.1/Factorial.runtimeconfig.dev.json
+bin/Debug/netcoreapp3.1/Factorial.runtimeconfig.json
+obj/Debug/netcoreapp3.1/Factorial
+obj/Debug/netcoreapp3.1/Factorial.csproj.CoreCompileInputs.cache
+obj/Debug/netcoreapp3.1/Factorial.csproj.FileListAbsolute.txt
+obj/Debug/netcoreapp3.1/Factorial.dll
+obj/Debug/netcoreapp3.1/Factorial.genruntimeconfig.cache
+obj/Debug/netcoreapp3.1/Factorial.pdb
